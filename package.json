@@ -19,11 +19,11 @@
   "devDependencies": {
     "mocha": "~1.12.0",
     "async": "~0.2.9",
-    "sql": "~0.26.0",
+    "sql": "escribano/sql",
     "pg": "*"
   },
   "dependencies": {
-    "okay": "~0.3.0",
-    "when": "~2.6.0"
+    "okay": "escribano/node-okay",
+    "when": "escribano/when"
   }
 }
